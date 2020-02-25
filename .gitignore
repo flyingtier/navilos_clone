@@ -1,4 +1,4 @@
-.o
-.bin
-.axf
+boot/*.o
+boot/*.bin
+*.axf
 
